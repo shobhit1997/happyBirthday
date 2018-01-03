@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "924385330982",
+    "firebase_url": "https://happy-birthday-c2cba.firebaseio.com",
+    "project_id": "happy-birthday-c2cba",
+    "storage_bucket": "happy-birthday-c2cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924385330982:android:7d6b01c3109a1cc1",
+        "android_client_info": {
+          "package_name": "com.example.dell.happybirthday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924385330982-aaifqtiat884qcut9l9f9b0jack797hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.happybirthday",
+            "certificate_hash": "cb7818da76a7f13658fba971657b4996734304a1"
+          }
+        },
+        {
+          "client_id": "924385330982-gbj0k7cflodh0rh7v8go1agd1lbiu143.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS3ppgKQd_H9nP2AoVshcPB_-QQHCJzNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924385330982-gbj0k7cflodh0rh7v8go1agd1lbiu143.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

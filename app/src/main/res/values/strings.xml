@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="title_activity_happy_birthday">HappyBirthday</string>
+    <string name="title_activity_slideshow">slideshow</string>
+</resources>
